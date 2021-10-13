@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "Nunito";
+	src: url("../fonts/Nunito-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Nunitolight";
+	src: url("../fonts/Nunito-Light.ttf");
+}
+
+@font-face {
+	font-family: "Nunitoblack";
+	src: url("../fonts/Nunito-Black.ttf");
+}
+
+root {
+	font-family: "Nunitolight";
+}
+h1 h2 h3 h4 h5 h6 {
+	font-family: "Nunitoblack";
+}
